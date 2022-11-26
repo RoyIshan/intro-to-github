@@ -146,7 +146,7 @@ In our action, we post a comment on the pull request using a [bash](https://en.w
 
 ### :keyboard: Activity: Add Actions steps to your workflow file
 
-1. Open your `welcome.yml` file.
+1. Open your `welcome.yml` file. 😀
 2. Update the contents of the file to:
    ```yaml
    name: Post welcome comment
